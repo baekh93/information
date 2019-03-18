@@ -12,5 +12,7 @@
 
 - [Github README.md꾸미기](https://devhwi.tistory.com/40?category=707447)
 
+- [:star2:마크업 이모티콘(Emoji cheat sheet):star2:](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
 
 :smile: <br/>
