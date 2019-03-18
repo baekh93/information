@@ -14,5 +14,3 @@
 
 - [:star2:마크업 이모티콘(Emoji cheat sheet):star2:](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
-
-:smile: <br/>
