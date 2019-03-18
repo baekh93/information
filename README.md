@@ -8,7 +8,7 @@
 [포트폴리오 작성시 유의사항2](https://okky.kr/article/360170)
 
 
-:smile:
+:smile: <br/>
 #####Github
 
 [Github README.md꾸미기](https://devhwi.tistory.com/40?category=707447)
