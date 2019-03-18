@@ -7,6 +7,7 @@
 
 - [포트폴리오 작성시 유의사항2](https://okky.kr/article/360170)
 
+- [좋은개발자 되기](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
 
 #### Github
 
